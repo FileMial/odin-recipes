@@ -1,0 +1,21 @@
+*{
+    font-family: system-ui, sans-serif;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+h1{
+    font-size: 36px;
+    color: rgb(82, 4, 4);
+}
+
+a{
+    color: gray;
+}
