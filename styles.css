@@ -6,8 +6,13 @@ body{
     background-color: antiquewhite;
 }
 
-img{
+.imagem-chef{
     width: 300px;
+    height: auto;
+}
+
+.imagem-receitas{
+    width: 500px;
     height: auto;
 }
 
