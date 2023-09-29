@@ -6,21 +6,55 @@ body{
     background-color: antiquewhite;
 }
 
+.main-div{
+    background-color: aliceblue;
+
+    margin: 50px auto;
+
+    width: 400px;
+    height: 500px;
+
+    padding: 30px;
+
+    border-radius: 2%;
+}
+
+/* .border-style{
+    border: 5px solid #f3dddd;
+    border-radius: 3%;
+
+} */
+
 .imagem-chef{
     width: 300px;
     height: auto;
-}
+    
+    display: block;
 
-.imagem-receitas{
-    width: 500px;
-    height: auto;
+    margin: auto;
+
 }
 
 h1{
     font-size: 36px;
-    color: rgb(82, 4, 4);
+    color: #520404;
+
+    text-align: center;
+
+}
+
+.main-list{
+
+    margin-left: 78px;
+    
+    width: 200px;
+    height: 100px;
+    /* background-color: red; */
 }
 
 a{
-    color: gray;
+    color: brown;
+    font-size: 20px;
 }
+
+
